@@ -2,11 +2,6 @@
 
 Bem-vindo ao **Card App**, um aplicativo desenvolvido para facilitar e agilizar o processo de pedidos em lanchonetes e food trucks.
 
-<p align="center">
-  <img src="visualizar/print1.png" alt="Print do app" width="300"/>
-  <img src="visualizar/print2.png" alt="Print do app" width="300"/>
-</p>
-
 ---
 
 ## 📱 Sobre o Projeto
