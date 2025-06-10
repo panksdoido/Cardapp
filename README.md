@@ -26,6 +26,3 @@ O **Card App** permite que atendentes e clientes visualizem o cardápio, façam 
 - 📦 Gerenciamento do status dos pedidos
 
 ---
-
-## 📂 Estrutura de Pastas
-
